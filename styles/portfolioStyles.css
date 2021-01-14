@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+	background-color: #9B9B9B;
+}
+h1 {
+	color: #FFFFFF;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 5em;
+	text-align: center;
+	text-decoration: underline blink;
+}
+a:link {
+	color: #FBFBFB;
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a:visited {
+	color: #FBFBFB;
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a:hover {
+	color: #5419E4;
+	text-decoration: underline;
+}
